@@ -1,5 +1,7 @@
 # FirefoxのUIフォント
 
+https://www.bugbugnow.net/2018/04/firefox-userchromecss.html
+
 FirefoxのUIフォントサイズが小さいので大きくする。
 
 about:config で
@@ -19,4 +21,13 @@ about:config で
     }
 
 という内容で userChrome.css を作る。
+
+### UIのDOMの確認方法。
+
+開発ツールを表示して、その設定から
+
+- ブラウザとアドオンのデバッガーを有効化
+- リモートデバッガーを有効化
+
+の二つをオンにして、メニューから「ウェブ開発」の中にある「ブラウザツールボックス」を立ち上げる。
 
