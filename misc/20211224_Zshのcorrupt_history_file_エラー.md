@@ -18,3 +18,6 @@
 
 みたいな感じで壊れている行を削除。
 
+- https://superuser.com/questions/957913/how-to-fix-and-recover-a-corrupt-history-file-in-zsh
+- https://kaworu.jpn.org/kaworu/2014-08-16-1.php
+
